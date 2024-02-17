@@ -1858,9 +1858,9 @@ clone@^1.0.2:
   integrity sha512-JQHZ2QMW6l3aH/j6xCqQThY/9OH4D/9ls34cgkUBiEeocRTU04tHfKPBsUK1PqZCUQM7GiA0IIXJSuXHI64Kbg==
 
 close-with-grace@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/close-with-grace/-/close-with-grace-1.2.0.tgz#9af82cc62b40125125e4c772e4dbe3cd8c3ff494"
-  integrity sha512-Xga0jyAb4fX98u5pZAgqlbqHP8cHuy5M3Wto0k0L/36aP2C25Cjp51XfPw3Hz7dNC2L2/hF/PK/KJhO275L+VA==
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/close-with-grace/-/close-with-grace-1.3.0.tgz#ff0f5889ad076f79c9d4308db75cc827027366b8"
+  integrity sha512-lvm0rmLIR5bNz4CRKW6YvCfn9Wg5Wb9A8PJ3Bb+hjyikgC1RO1W3J4z9rBXQYw97mAte7dNSQI8BmUsxdlXQyw==
 
 clsx@2.0.0:
   version "2.0.0"
